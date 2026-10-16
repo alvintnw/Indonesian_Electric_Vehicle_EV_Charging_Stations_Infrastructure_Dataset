@@ -1,0 +1,13 @@
+station_name,operator,province,city,latitude,longitude,charger_type,ports_count,status
+SPKLU PLN UID Jakarta Raya,PLN,DKI Jakarta,Jakarta Pusat,-6.1751,106.8272,Ultra Fast Charging,4,Operational
+SPKLU Mall Grand Indonesia,PLN / Private,DKI Jakarta,Jakarta Pusat,-6.195,106.823,Fast Charging,2,Operational
+SPKLU Rest Area KM 19 Tol Jakarta-Cikampek,PLN,Jawa Barat,Bekasi,-6.255,107.035,Ultra Fast Charging,6,Operational
+SPKLU PLN Gedung Sate,PLN,Jawa Barat,Bandung,-6.9025,107.6187,Fast Charging,3,Operational
+SPKLU Rest Area KM 207 A Palikanci,PLN,Jawa Barat,Cirebon,-6.732,108.552,Fast Charging,2,Operational
+SPKLU PLN UP3 Surabaya Selatan,PLN,Jawa Timur,Surabaya,-7.2758,112.742,Ultra Fast Charging,4,Operational
+SPKLU Rest Area KM 626 B Ngawi,PLN,Jawa Timur,Ngawi,-7.401,111.445,Fast Charging,2,Operational
+SPKLU PLN UID Bali Denpasar,PLN,Bali,Denpasar,-8.65,115.2167,Fast Charging,4,Operational
+SPKLU Bandara Internasional I Gusti Ngurah Rai,PLN / Injourney,Bali,Badung,-8.748,115.167,Ultra Fast Charging,3,Operational
+SPKLU PLN Kantor Gubernur Jateng,PLN,Jawa Tengah,Semarang,-6.984,110.41,Fast Charging,2,Operational
+SPKLU PLN UID Sumatera Utara,PLN,Sumatera Utara,Medan,3.595,98.672,Fast Charging,3,Operational
+SPKLU PLN Balikpapan Kaltim,PLN,Kalimantan Timur,Balikpapan,-1.265,116.831,Fast Charging,2,Operational
